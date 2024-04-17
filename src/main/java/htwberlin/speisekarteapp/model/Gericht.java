@@ -7,9 +7,9 @@ public class Gericht {
     private double preis;
 
     public Gericht(String name, String beschreibung, double preis, boolean vegetarisch) {
-        this.gerichtID;
+        this.gerichtID = 0; // Assign a default value to gerichtID
         this.name = name;
+        this.beschreibung = beschreibung;
         this.preis = preis;
-      
     }
 }
