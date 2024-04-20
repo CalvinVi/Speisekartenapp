@@ -1,1 +1,3 @@
-GET http://localhost:8080/hello?text=Testing
+GET http://localhost:8080/hello?text=down
+###
+GET http://localhost:8080/gericht
